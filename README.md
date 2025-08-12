@@ -37,7 +37,7 @@ The workflow includes data preprocessing, augmentation, model training, evaluati
 
 📂 **Repository Contents:**
 
-notebooks/ → Jupyter notebook with preprocessing, training, and evaluation.
+notebooks/ → Jupyter notebook with preprocessing, training, and evaluation.(https://github.com/Nandhanabichu/image_classification_AI/blob/main/image_classification.ipynb)
 
 models/ → Trained model files for both CNN and MobileNetV2.
 
