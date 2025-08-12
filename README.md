@@ -62,7 +62,7 @@ README.md → Project summary, usage instructions, and results.
 
 3.Accuracy/Loss comparison()
 
-4.ROC curve()
+4.ROC curve(https://github.com/Nandhanabichu/image_classification_AI/blob/main/cnn_roc_curve.png)
 
 5.F1-plot(https://github.com/Nandhanabichu/image_classification_AI/blob/main/F1-score_plot.png)
 
