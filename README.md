@@ -1,5 +1,12 @@
 # Image_classification_AI
-This project implements a complete deep learning pipeline for binary image classification using Python, TensorFlow/Keras, and OpenCV. It covers dataset preprocessing, model building, evaluation, visualization, and optimization with transfer learning.
+This project demonstrates an image classification pipeline built in Google Colab using:
+
+*Custom Convolutional Neural Network (CNN)
+
+*Transfer Learning with MobileNetV2
+
+The workflow includes data preprocessing, augmentation, model training, evaluation, and performance comparison between the two approaches.
+
 
 **The workflow includes**:
 
@@ -14,6 +21,7 @@ This project implements a complete deep learning pipeline for binary image class
 **Transfer Learning** — Fine-tuning MobileNetV2 on the same dataset and comparing results with the custom CNN.
 
 **Visualizations** — Loss/accuracy plots, confusion matrices, and sample predictions.
+
 
 
 **🚀 Features:**
@@ -35,6 +43,9 @@ models/ → Trained model files for both CNN and MobileNetV2.
 
 visualizations/ → Loss/accuracy curves, confusion matrices, F1-plot and ROC curves.
 
+README.md → Project summary, usage instructions, and results.
+
+
 
 **🛠 Tech Stack:**
 
@@ -47,4 +58,4 @@ OpenCV, Matplotlib, Seaborn
 Scikit-learn
 
 
-README.md → Project summary, usage instructions, and results.
+
