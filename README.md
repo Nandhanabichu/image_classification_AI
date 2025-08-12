@@ -58,7 +58,7 @@ README.md → Project summary, usage instructions, and results.
 **📸 Visualizations**
 1.CNN confusion matrix()
 
-2.MobileNetV2 confusion matrix()
+2.MobileNetV2 confusion matrix(https://github.com/Nandhanabichu/image_classification_AI/blob/main/mobilenetv2_confusion_matrix.png)
 
 3.Accuracy/Loss comparison()
 
