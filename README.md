@@ -1,9 +1,9 @@
 # Image_classification_AI
 This project demonstrates an image classification pipeline built in Google Colab using:
 
-*Custom Convolutional Neural Network (CNN)
+***Custom Convolutional Neural Network (CNN)
 
-*Transfer Learning with MobileNetV2
+*Transfer Learning with MobileNetV2**
 
 The workflow includes data preprocessing, augmentation, model training, evaluation, and performance comparison between the two approaches.
 
@@ -60,7 +60,7 @@ README.md → Project summary, usage instructions, and results.
 
 2.MobileNetV2 confusion matrix(https://github.com/Nandhanabichu/image_classification_AI/blob/main/mobilenetv2_confusion_matrix.png)
 
-3.Accuracy/Loss comparison()
+3.Accuracy/Loss comparison(https://github.com/Nandhanabichu/image_classification_AI/blob/main/accuracy-loss_comparison.png)
 
 4.ROC curve(https://github.com/Nandhanabichu/image_classification_AI/blob/main/cnn_roc_curve.png)
 
