@@ -36,4 +36,15 @@ models/ → Trained model files for both CNN and MobileNetV2.
 visualizations/ → Loss/accuracy curves, confusion matrices, F1-plot and ROC curves.
 
 
+**🛠 Tech Stack:**
+
+Python, NumPy, Pandas
+
+TensorFlow/Keras
+
+OpenCV, Matplotlib, Seaborn
+
+Scikit-learn
+
+
 README.md → Project summary, usage instructions, and results.
