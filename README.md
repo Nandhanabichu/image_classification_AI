@@ -64,7 +64,7 @@ README.md → Project summary, usage instructions, and results.
 
 4.ROC curve()
 
-5.F1-plot()
+5.F1-plot(https://github.com/Nandhanabichu/image_classification_AI/blob/main/F1-score_plot.png)
 
 
 
