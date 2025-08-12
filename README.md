@@ -55,6 +55,17 @@ README.md → Project summary, usage instructions, and results.
 
 
 
+**📸 Visualizations**
+1.CNN confusion matrix()
+
+2.MobileNetV2 confusion matrix()
+
+3.Accuracy/Loss comparison()
+
+4.ROC curve()
+
+5.F1-plot()
+
 
 
 **🛠 Tech Stack:**
