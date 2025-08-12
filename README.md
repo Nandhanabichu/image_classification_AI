@@ -1,9 +1,9 @@
 # Image_classification_AI
 This project demonstrates an image classification pipeline built in Google Colab using:
 
-***Custom Convolutional Neural Network (CNN)
+**Custom Convolutional Neural Network (CNN)**
 
-*Transfer Learning with MobileNetV2**
+**Transfer Learning with MobileNetV2**
 
 The workflow includes data preprocessing, augmentation, model training, evaluation, and performance comparison between the two approaches.
 
