@@ -46,6 +46,13 @@ visualizations/ → Loss/accuracy curves, confusion matrices, F1-plot and ROC cu
 README.md → Project summary, usage instructions, and results.
 
 
+**📊 Results Summary:**
+
+| Model       | Accuracy | Precision | Recall | F1-Score |
+| ----------- | -------- | --------- | ------ | -------- |
+| Custom CNN  | 75%      | 71%       | 85%    | 78%      |
+| MobileNetV2 | 88%      | 93%       | 52%    | 67%      |
+
 
 **🛠 Tech Stack:**
 
